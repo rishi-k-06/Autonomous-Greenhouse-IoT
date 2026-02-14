@@ -1,0 +1,3 @@
+1. DHT sensor library (by Adafruit)
+2. WiFiEsp (by Bruno Portaluri) - For ESP-01 as Shield
+3. SoftwareSerial (Built-in)
